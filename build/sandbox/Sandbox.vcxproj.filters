@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\timot\OneDrive\Desktop\Portfolio\Engine\sandbox\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\timot\OneDrive\Desktop\Portfolio\Engine\sandbox\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D82941D9-FEE9-3A82-910C-C506F867C2E2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

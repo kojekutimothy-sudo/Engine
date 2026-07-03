@@ -1,0 +1,4 @@
+C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/engine/CMakeFiles/Engine.dir
+C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/sandbox/CMakeFiles/Sandbox.dir

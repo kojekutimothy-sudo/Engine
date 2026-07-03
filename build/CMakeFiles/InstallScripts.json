@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/cmake_install.cmake",
+		"C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/engine/cmake_install.cmake",
+		"C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/sandbox/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

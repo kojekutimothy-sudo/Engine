@@ -1,0 +1,10 @@
+^C:\USERS\TIMOT\ONEDRIVE\DESKTOP\PORTFOLIO\ENGINE\BUILD\CMAKEFILES\29A03EC6FF5B8C85BD0E9048F71F977F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/timot/OneDrive/Desktop/Portfolio/Engine -BC:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/timot/OneDrive/Desktop/Portfolio/Engine/build/Engine.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
